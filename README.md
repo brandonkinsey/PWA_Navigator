@@ -44,25 +44,4 @@ This Web App also works for rooms
     ```
     xConfiguration UserInterface HomeScreen Peripherals WebApp URL: https://wxsd-sales.github.io/pwa-webapp/
     ```
-    
-## Demo
-
-*For more demos & PoCs like this, check out our [Webex Labs site](https://collabtoolbox.cisco.com/webex-labs).
-
-## License
-
-All contents are licensed under the MIT license. Please see [license](LICENSE) for details.
-
-
-## Disclaimer
-
-Everything included is for demo and Proof of Concept purposes only. Use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex use cases, but are not Official Cisco Webex Branded demos.
-
-
-## Questions
-Please contact the WXSD team at [wxsd@external.cisco.com](mailto:wxsd@external.cisco.com?subject=pwa-webapp) for questions. Or, if you're a Cisco internal employee, reach out to us on the Webex App via our bot (globalexpert@webex.bot). In the "Engagement Type" field, choose the "API/SDK Proof of Concept Integration Development" option to make sure you reach our team. 
-
-
-## Text-To-Speech
-Text-To-Speech functionality is made possible in this demo thanks to the Speak.JS project.
-https://github.com/kripken/speak.js
+   
