@@ -12,7 +12,7 @@ const cityName = document.getElementById("cityName");
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 
-const apiKey = urlParams.get("apiKey") || "<Open Weather API Key>";
+const apiKey = urlParams.get("apiKey") || "<fb6638fc638f1b6b9da3be236d67b3b4>";
 const cityId = urlParams.get("cityId") || "4634946";
 
 let xapi;
